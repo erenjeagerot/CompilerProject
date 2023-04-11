@@ -1,0 +1,17 @@
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\bin\Debug\netcoreapp3.1\CompilerProject.exe
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\bin\Debug\netcoreapp3.1\CompilerProject.deps.json
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\bin\Debug\netcoreapp3.1\CompilerProject.runtimeconfig.json
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\bin\Debug\netcoreapp3.1\CompilerProject.runtimeconfig.dev.json
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\bin\Debug\netcoreapp3.1\CompilerProject.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\bin\Debug\netcoreapp3.1\CompilerProject.pdb
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.csproj.AssemblyReference.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.Form1.resources
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.csproj.GenerateResource.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.AssemblyInfoInputs.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.AssemblyInfo.cs
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.dll
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.pdb
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.genruntimeconfig.cache
+C:\Users\EREN\Documents\Visual Studio 2019\Projects\CompilerProject\CompilerProject\obj\Debug\netcoreapp3.1\CompilerProject.Properties.Resources.resources
